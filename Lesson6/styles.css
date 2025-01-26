@@ -1,0 +1,9 @@
+.container {
+    background-color: gray
+}
+.container >div {
+    background-color: brown;
+}
+.row > div {
+    border: 1px solid black;
+}
