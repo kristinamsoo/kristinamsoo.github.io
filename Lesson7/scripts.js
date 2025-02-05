@@ -1,4 +1,4 @@
-//Single line cmment
+//Single line comment
 /* 
 Multi line comment
 Multi line comment
@@ -115,7 +115,7 @@ if(number => 0 && number <= 10) {
     cosole-log("ERROR");
 }
 
-number = 100;
+number = 11;
 
 if(number == 10) {
     console.log("This is 10");
